@@ -16,17 +16,17 @@
 		"postinstall": "is-ci || husky install"
 	},
 	"resolutions": {
-		"@typescript-eslint/eslint-plugin": "^6.16.0"
+		"@typescript-eslint/eslint-plugin": "^6.18.0"
 	},
 	"devDependencies": {
-		"@commitlint/cli": "^18.4.3",
-		"@commitlint/config-angular": "^18.4.3",
+		"@commitlint/cli": "^18.4.4",
+		"@commitlint/config-angular": "^18.4.4",
 		"@sapphire/eslint-config": "^5.0.3",
 		"@sapphire/ts-config": "^5.0.0",
 		"@snowcrystals/prettier-config": "^1.0.0",
 		"@types/node": "^20.10.6",
-		"@typescript-eslint/eslint-plugin": "^6.16.0",
-		"@typescript-eslint/parser": "^6.16.0",
+		"@typescript-eslint/eslint-plugin": "^6.18.0",
+		"@typescript-eslint/parser": "^6.18.0",
 		"eslint": "^8.56.0",
 		"eslint-config-next": "^14.0.4",
 		"eslint-config-prettier": "^9.1.0",
@@ -36,7 +36,7 @@
 		"lint-staged": "^15.2.0",
 		"nodemon": "^3.0.2",
 		"prettier": "^3.1.1",
-		"turbo": "^1.11.2",
+		"turbo": "^1.11.3",
 		"typescript": "5.3.3"
 	},
 	"engines": {
